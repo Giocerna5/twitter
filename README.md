@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: Shows tweet after i log in
 
 <img src= 'twitterpart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
